@@ -10,7 +10,7 @@ I'm React and Node.js developer, I'm **specialize** in building robust and scala
 <div>
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=nodedotjs&logoColor=green"/>
+<img src="https://img.shields.io/badge/Node.js-4DA53F?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/mongodb-4DA53F?style=for-the-badge&logo=mongodb&logoColor=white"/>
