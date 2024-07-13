@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Dignesh
 
-I'm React and Node.js developer, I'm **specialize** in building robust and scalable applications using modern technologies.
+I'm **specialize** in building robust and scalable applications using modern web technologies.
+
 
 ### Here are my projects I've worked on:
 - <a href="https://github.com/devdignesh/twitter-clone">Twitter clone</a>: A Next.js 14 project with TypeScript, Tanstack Query, MongoDB, NextAuth, Zustand and Shadcn UI, TailwindCSS.
