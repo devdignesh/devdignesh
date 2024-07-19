@@ -4,7 +4,7 @@ I'm **specialize** in building robust and scalable applications using modern web
 
 
 ### Here are my projects I've worked on:
-- <a href="https://github.com/devdignesh/twitter-clone">Twitter clone</a>: A Next.js 14 project with TypeScript, Tanstack Query, MongoDB, NextAuth, Zustand and Shadcn UI, TailwindCSS.
+- <a href="https://github.com/devdignesh/twitter-clone">Twitter clone</a>: A Next.js 14 project with TailwindCSS, Shadcn UI, Framer Motion, TypeScript, Tanstack Query, MongoDB, Prisma, NextAuth, Docker and Zustand.
 
 ### Languages and Tools
 
