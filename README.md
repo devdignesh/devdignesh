@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dignesh
 
-I'm **specialize** in building robust and scalable applications using modern web technologies.
+I'm **specialize** in building robust and scalable applications using modern web technologies. I enjoy working on the frontend and have over 2+ years of experience working at Blackbugs technologies. I take pride in my work, and do everything with passion and curiosity. I am a self-starter, great learner and collaborator, and am always willing to help where I can.
 
 
 ### Here are my projects I've worked on:
