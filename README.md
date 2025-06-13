@@ -4,7 +4,10 @@ I'm **specialize** in building robust and scalable applications using modern web
 
 
 ### Here are my projects I've worked on:
-- <a href="https://github.com/devdignesh/twitter-clone">Twitter clone</a>: A Next.js 14 project with TailwindCSS, Shadcn UI, Framer Motion, TypeScript, Tanstack Query, MongoDB, Prisma, NextAuth, Docker and Zustand.
+- <a href="https://github.com/devdignesh/twitter-clone">Tweetsphere</a>: Developed a full stack application imitating the popular social media app - X using Next.js 14 with TailwindCSS, Shadcn UI, Framer Motion, TypeScript, Tanstack Query, MongoDB, Prisma, NextAuth, Docker and Zustand.
+
+#### Open Source Contributions
+- **[Ray.so](https://github.com/raycast/ray-so/pull/261)**: Added a font selection dropdown to code editor, syncing fonts with URL hash using Jotai state management
 
 ### Languages and Tools
 
