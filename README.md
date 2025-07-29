@@ -3,7 +3,7 @@
 I'm **specialize** in building robust and scalable applications using modern web technologies. I enjoy working on the frontend and have over 3+ years of experience working at Blackbugs technologies. I take pride in my work, and do everything with passion and curiosity. I am a self-starter, great learner and collaborator, and am always willing to help where I can.
 
 
-### Here are my projects I've worked on:
+### Here are some projects I've worked on:
 - <a href="https://github.com/devdignesh/twitter-clone">Tweetsphere</a>: Developed a full stack application imitating the popular social media app - X using <b>Next.js 14</b> with <b>TypeScript</b>, <b>TailwindCSS</b>, Shadcn UI, Framer Motion, Tanstack Query, Zustand, MongoDB, Prisma, NextAuth and Docker.
 
 - <a href="https://github.com/devdignesh/next99-electron-app">Canvas & widget desktop application</a>: Developed a desktop application using <b>Electron</b>, React, and TypeScript, implementing a basic canvas and widget management system.
